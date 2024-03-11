@@ -49,7 +49,7 @@ export const products = [
         id: 4,
         name: "Product 4",
         tags: "Dress",
-        category: "female",
+        category: "Male",
         price: 200,
         image: P4,
         discount: 2,
